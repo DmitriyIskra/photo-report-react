@@ -1,0 +1,32 @@
+.logo__wrapper {
+    position: relative;
+
+    display: flex;
+    gap: 11px;
+
+    align-items: center;
+}
+
+@import url('../../../fonts/css/fonts.module.css');
+
+.logo__icon {
+    height: 45px;
+    width: 45px;
+}
+
+.logo__text {
+    font-family: 'FuturaPT';
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+    color: #fff;
+}
+
+.logo__link {
+    position: absolute;
+
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}

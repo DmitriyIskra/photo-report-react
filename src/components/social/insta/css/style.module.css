@@ -1,0 +1,16 @@
+.wrapper {
+    position: relative;
+
+    display: flex;
+    height: 0.78vw;
+    width: 0.89vw;
+
+    align-items: center;
+}
+
+.wrapper a {
+    position: absolute;
+    
+    height: 100%;
+    width: 100%;
+}

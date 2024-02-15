@@ -1,0 +1,29 @@
+.header__block-top {
+    display: flex;
+    height: 119px;
+
+    background: no-repeat url(../../img/background-header.png);
+    background-size: cover;
+    background-position: center;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    width: 58%;
+
+    justify-content: space-between;
+}
+
+.logo-city {
+    display: flex;
+}
+
+.social-phone {
+    display: flex;
+    gap: 6.15vw;
+
+    align-items: center;
+}

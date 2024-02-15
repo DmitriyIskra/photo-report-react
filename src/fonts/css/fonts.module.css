@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'FuturaPT';
+    src: url('../futura_pt_demi/futura_pt_demi.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+}

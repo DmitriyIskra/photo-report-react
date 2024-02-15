@@ -1,0 +1,15 @@
+.wrapper {
+    position: relative;
+
+    width: 0.47vw;
+    height: 0.89vw;
+}
+
+.wrapper a {
+    position: absolute;
+    left: 0;
+    right: 0;
+
+    height: 100%;
+    width: 100%;
+}
