@@ -1,0 +1,19 @@
+.button {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+
+    height: 4.22vw;
+    width: 2.45vw;
+    cursor: pointer;
+
+    transform: translateY(-50%);
+}
+
+.button svg {
+    opacity: 0.5;
+}
+
+.button svg:hover {
+    opacity: 1;
+}

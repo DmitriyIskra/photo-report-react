@@ -1,0 +1,14 @@
+.button {
+    width: 12.50vw;
+    height: 2.34vw;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+
+    color: #fff;
+    background: #D11F8A;
+    border: 0;
+
+    cursor: pointer;
+}

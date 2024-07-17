@@ -1,0 +1,14 @@
+.event-slider-item {
+    /* flex-grow: 1; */
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+.event-slider-item img {
+    height: 100%;
+    width: 100%;
+
+    object-position: center;
+    object-fit: cover;
+}

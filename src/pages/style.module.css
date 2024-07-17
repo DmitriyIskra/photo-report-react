@@ -1,0 +1,14 @@
+.main {
+    min-height: 100vh;
+
+    background: #000;
+
+    flex-direction: column;
+}
+
+.events {
+    display: flex;
+    height: 100%;
+
+    justify-content: center;
+}

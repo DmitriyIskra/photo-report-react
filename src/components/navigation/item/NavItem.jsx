@@ -3,7 +3,8 @@ import styles from './css/style.module.css';
 import { NavLink } from 'react-router-dom';
 
 export default function NavItem({data, callback}) {
+  const {name, link} = data
   return (
-    <NavLink className={callback}>{data}</NavLink>
+    <NavLink to={link} className={callback}>{name}</NavLink>
   )
-}
+} 

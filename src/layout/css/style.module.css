@@ -19,11 +19,29 @@
 
 .logo-city {
     display: flex;
+    gap: 1vw;
 }
 
 .social-phone {
     display: flex;
     gap: 6.15vw;
 
+    align-items: center;
+}
+
+.header__block-bottom {
+    display: flex;
+    min-height: 4.01vw;
+
+    background: #000;
+
+    justify-content: center;
+}
+
+.header__wr-nav-order {
+    display: flex;
+    width: 58%;
+
+    justify-content: space-between;
     align-items: center;
 }

@@ -1,13 +1,17 @@
-.noActive {
-    font-size: 15px;
+.link {
+    font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
 
+.link:hover {
+    color: #D11F8A;
+}
+
+.noActive {
     color: #fff;
 }
 
 .active {
-    font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
-
     color: #D11F8A;
 }
